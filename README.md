@@ -1,7 +1,4 @@
-# Heart Disease Prediction with more than 83% accuracy
-
-![image](https://user-images.githubusercontent.com/64093617/114946402-60480300-9e4b-11eb-97c3-ccaa1b9d6d30.png)
-
+## Heart Disease Prediction with more than 83% accuracy
 
 By using 13 different features, the model predicts whether a person has a heart disease or not.
 All you need is just to input these 13 features which is mostly results of medical analysis:
